@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Ethan
-- 🌱 I’m currently learning computer science, java, python and javascript.
-
+- 👋 Hi, I’m Ethan. A computer science study currently practicing working with JavaScript
