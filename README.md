@@ -1,1 +1,1 @@
-- 👋 Hi, I’m Ethan. A computer science study currently practicing working with JavaScript
+- 👋 Hi, I’m Ethan. A computer science study currently practicing working with HTML, CSS and JavaScript.
